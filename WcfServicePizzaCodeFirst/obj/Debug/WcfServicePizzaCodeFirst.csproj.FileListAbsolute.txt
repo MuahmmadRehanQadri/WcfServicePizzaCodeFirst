@@ -1,1 +1,10 @@
 c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\obj\Debug\WcfServicePizzaCodeFirst.csprojResolveAssemblyReference.cache
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\bin\WcfServicePizzaCodeFirst.dll.config
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\bin\WcfServicePizzaCodeFirst.dll
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\bin\WcfServicePizzaCodeFirst.pdb
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\bin\EntityFramework.dll
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\bin\EntityFramework.SqlServer.dll
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\bin\EntityFramework.xml
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\bin\EntityFramework.SqlServer.xml
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\obj\Debug\WcfServicePizzaCodeFirst.dll
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\obj\Debug\WcfServicePizzaCodeFirst.pdb
