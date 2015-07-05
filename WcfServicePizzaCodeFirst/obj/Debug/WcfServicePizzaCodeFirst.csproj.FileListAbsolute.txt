@@ -1,0 +1,1 @@
+c:\users\muhammad rehan qadri\documents\visual studio 2013\Projects\WcfServicePizzaCodeFirst\WcfServicePizzaCodeFirst\obj\Debug\WcfServicePizzaCodeFirst.csprojResolveAssemblyReference.cache
