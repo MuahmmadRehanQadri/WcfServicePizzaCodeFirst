@@ -41,7 +41,7 @@ namespace WcfServicePizzaCodeFirst
             }
             catch (Exception e)
             {
-                return "I'm here" + e.InnerException.ToString();
+                return "I'm here" + e;
             }
         }
 
