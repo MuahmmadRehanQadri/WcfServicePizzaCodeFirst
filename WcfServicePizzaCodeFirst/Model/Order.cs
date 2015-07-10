@@ -7,6 +7,7 @@ namespace WcfServicePizzaCodeFirst.Model
 {
     public class Order
     {
+        [Key]
         public int OrderId { get; set; }
         public string Address { get; set; }
         public bool Status { get; set; }

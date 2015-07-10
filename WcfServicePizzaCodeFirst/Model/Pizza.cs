@@ -7,6 +7,7 @@ namespace WcfServicePizzaCodeFirst.Model
 {
     public class Pizza
     {
+        [Key]
         public string PizzaName { get; set; }
         public string Type { get; set; }
         public double Price { get; set; }
